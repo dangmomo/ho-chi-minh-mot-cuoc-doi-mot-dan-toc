@@ -118,9 +118,7 @@ const App: React.FC = () => {
                   "Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra Hồ Chủ tịch, người anh hùng dân tộc vĩ đại, và chính Người đã làm rạng rỡ dân tộc ta, nhân dân ta và non sông đất nước ta."
                 </p>
                 <div className="w-24 h-1 bg-vintage-red mx-auto mb-8"></div>
-                <p className="text-sm opacity-50 font-sans">
-                  © 2024 Historical Tribute Project. Designed with respect and memory.
-                </p>
+
             </div>
         </footer>
 
